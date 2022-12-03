@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ash-weather-app/static/css/main.36901a67.css",
+    "main.js": "/ash-weather-app/static/js/main.1ae4823c.js",
+    "index.html": "/ash-weather-app/index.html",
+    "main.36901a67.css.map": "/ash-weather-app/static/css/main.36901a67.css.map",
+    "main.1ae4823c.js.map": "/ash-weather-app/static/js/main.1ae4823c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36901a67.css",
+    "static/js/main.1ae4823c.js"
+  ]
+}
